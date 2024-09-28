@@ -9,10 +9,11 @@ int main(){
     char ch =s[i];
     if( ch=='a'||  ch=='e'||  ch=='i' || ch=='o'|| ch=='u'|| ch=='A' || ch=='E' ||  ch=='I' || ch=='O'|| ch=='U' ){
         vowelcount ++;
-        cout<<"no. of vowels"<<vowelcount<<endl;
+        
 
     }
     }
+    cout<<"no. of vowels"<<vowelcount<<endl;
 
 
 }
