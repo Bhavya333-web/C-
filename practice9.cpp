@@ -10,12 +10,5 @@ int main() {
       cout<<a<<endl;
       a=a+1;
       
-  }
-
-
-
-
-
-
-  
+  }  
 }
