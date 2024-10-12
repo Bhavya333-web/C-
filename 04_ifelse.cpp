@@ -10,19 +10,19 @@ int main() {
     cin>>c;
     if(a>b){
         if(a>c){
-            cout<< "a is greatest";
+            cout<< "A is greatest";
         }
             else {
-                cout << "c is greatest";
+                cout << "C is greatest";
             }
     }   else if (b>a) {
            if (b>c){
-             cout<< "b is greatest";
+             cout<< " B is greatest";
            }
 
         
              else {
-                cout << "c is greatest";
+                cout << "C is greatest";
              }
         }
          else {
