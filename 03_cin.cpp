@@ -6,13 +6,13 @@ int main(){
     string z;
     int x;
     string y;
-    cout << " Enter Pet name"<< endl;
+    cout << " Enter your's Pet name"<< endl;
     cin >> z ;
     cin.ignore();
     cout << "Enter Full name" << endl;
     getline(cin, y);
 
-    cout << "enter your age" << endl;
+    cout << "Enter your age" << endl;
     cin >> x ;
 
     cout << "Hello!" <<  y  <<" you are" << x << " years old." ;
