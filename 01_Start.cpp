@@ -2,5 +2,6 @@
 using namespace std;
 int main(){
     cout << "hello";
-    cout << "Start Learning C++";
+    cout << "Starting C++ ";
+    cout<<"Daily efforts can create A big change one day (definitely)";
 }
