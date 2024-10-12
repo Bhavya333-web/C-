@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int x = 10;
-    int y = 12;
+    int x = 100;
+    int y = 120;
     
     int temp = x;
       x = y;
