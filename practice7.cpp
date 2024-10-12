@@ -8,7 +8,7 @@ int main() {
     cout << i << endl;
     i = i+1;
   }
-  while(i < 6);
+  while(i < 10);
 
   
 }
