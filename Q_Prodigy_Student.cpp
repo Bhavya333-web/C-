@@ -7,6 +7,7 @@ int main() {
 	cin>>student1>>student2;
 	int x;
 	int y;
+	
 	cin>>x>>y;
 	if(x>y){
 	    cout<<student1;
