@@ -10,5 +10,6 @@ int main() {
         sort(nums, nums + 3);
         cout << nums[1] << endl; 
     }
+    
     return 0;
 }
