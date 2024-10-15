@@ -2,12 +2,10 @@
 using namespace std;
 
 int main() {
-    // update your code here
     int x;
     int y;
     int z;
-    cin>>x>>y>>z;
-    
+    cin>>x>>y>>z; 
     if(x==y && y==z){
         cout<<"Equilateral";
     }
@@ -19,4 +17,5 @@ int main() {
     }
 
     return 0;
+    
 }
