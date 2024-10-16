@@ -9,9 +9,15 @@ int main()
     {
         for (int j = 1; j <= col; j++)
         {
-            if (i == 1 || i == row || j == 1 || j == col)
+            if (i == 1 || i == row )
             {
                 cout << "*";
+            }
+            else if( j == 1 || j == col){
+                cout<<"*";
+            }
+            else{
+                cout<< " ";
             }
         }
         cout << endl;
