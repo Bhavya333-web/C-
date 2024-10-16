@@ -9,15 +9,17 @@ int main()
     {
         for (int j = 1; j <= col; j++)
         {
-            if (i == 1 || i == row )
+            if (i == 1 || i == row)
             {
                 cout << "*";
             }
-            else if( j == 1 || j == col){
-                cout<<"*";
+            else if (j == 1 || j == col)
+            {
+                cout << "*";
             }
-            else{
-                cout<< " ";
+            else
+            {
+                cout << " ";
             }
         }
         cout << endl;
