@@ -13,7 +13,6 @@ int main() {
         int A, B;
         cin >> A >> B;
         
-        // Use functions to calculate C and D
         int C = calculateC(A, B);
         int D = calculateD(A, B);
         
