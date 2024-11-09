@@ -9,7 +9,6 @@ int calculateD(int A, int B) {
 }
 
 int main() {
-    // Repeat the input, calculation, and output process thrice
     for (int i = 0; i < 3; i++) {
         int A, B;
         cin >> A >> B;
