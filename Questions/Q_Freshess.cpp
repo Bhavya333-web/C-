@@ -22,7 +22,7 @@ int main() {
                 
             }
             cout<<cost<<endl;
-        }                 // your code goes here
+        }                 
     
 
 }
