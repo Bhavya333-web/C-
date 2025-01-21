@@ -1,9 +1,8 @@
 #include <iostream>
-#include <string>  // For using string functions
-#include <algorithm>  // For using transform function
+#include <string>  
+#include <algorithm>  
 using namespace std;
 
-// Function to print the greeting
 void printGreeting(const string& name) {
 
     // Convert the greeting to uppercase
